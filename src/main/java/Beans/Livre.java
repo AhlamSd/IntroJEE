@@ -10,6 +10,7 @@ public class Livre {
 	public Livre() {
 		// TODO Auto-generated constructor stub
 		String a = "tata";
+		String b = "ttata";
 	}
 	
 	public Livre(String isbn, String titre, String auteur, float prix, int nbrpages, int annee_edition) {
