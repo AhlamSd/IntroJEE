@@ -16,6 +16,7 @@ public class Livre {
 		String batata = "ttataa";
 		String test = "test";
 		String new = "newbranch";
+		String new2 = "taetaet"
 	}
 	
 	public Livre(String isbn, String titre, String auteur, float prix, int nbrpages, int annee_edition) {
