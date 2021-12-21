@@ -1,7 +1,7 @@
 package Beans;
 
 public class Livre {
-   
+	
 	String isbn, titre, auteur;
 	float prix;
 	int nbrpages, annee_edition;
@@ -9,6 +9,7 @@ public class Livre {
 	
 	public Livre() {
 		// TODO Auto-generated constructor stub
+		String a = "tata";
 	}
 	
 	public Livre(String isbn, String titre, String auteur, float prix, int nbrpages, int annee_edition) {
