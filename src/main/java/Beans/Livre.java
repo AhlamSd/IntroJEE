@@ -17,6 +17,9 @@ public class Livre {
 		String test = "test";
 		String new = "newbranch";
 		String new2 = "taetaet"
+
+
+		String TP = "test1";
 	}
 	
 	public Livre(String isbn, String titre, String auteur, float prix, int nbrpages, int annee_edition) {
@@ -69,8 +72,5 @@ public class Livre {
 	public void setPrix(float prix) {
 		this.prix = prix;
 	}
-	
-	
-	
-	
+
 }
